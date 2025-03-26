@@ -11,8 +11,8 @@ starship init fish | source
 # end
 
 # Pyenv
-pyenv init - fish | source
-status --is-interactive; and pyenv virtualenv-init - | source
+# pyenv init - fish | source
+# status --is-interactive; and pyenv virtualenv-init - | source
 
 # File system
 alias ls='eza -lh --group-directories-first --icons'
