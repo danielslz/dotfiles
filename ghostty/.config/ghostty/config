@@ -43,5 +43,6 @@
 # resize-overlay-duration = 4s 200ms
 
 font-family = CaskaydiaMono Nerd Font
-window-width=110
-window-height=32
+window-width = 110
+window-height = 32
+shell-integration-features = ssh-terminfo,ssh-env
